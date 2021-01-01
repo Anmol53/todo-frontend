@@ -20,7 +20,7 @@
 
 ### Dark Mode
 <p align="center">
-    <img src="https://github.com/Anmol53/todo-frontend/blob/master/dark.gif" width="80%">
+    <img src="https://anmolagrawal.tech/todo-frontend/dark.gif" width="80%">
 </p>
 
 ## Author
