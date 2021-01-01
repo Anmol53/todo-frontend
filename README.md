@@ -16,6 +16,13 @@
 
 [Backend Repo](https://github.com/Anmol53/todo-backend)
 
+## Screen Captures
+
+### Dark Mode
+<p align="center">
+    <img src="https://github.com/Anmol53/todo-frontend/blob/master/dark.gif" width="80%">
+</p>
+
 ## Author
 ***Anmol Agrawal***
 
